@@ -3,3 +3,4 @@
 chromedriver
 
 *.class
+*.kotlin_module
